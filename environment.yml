@@ -1,0 +1,11 @@
+name: data-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - jupyter
+  - pandas
+  - seaborn
+  - wordcloud
