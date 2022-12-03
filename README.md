@@ -33,17 +33,13 @@ Alternatively you can manually install these libraries:
 
 This is the first project of the Udacity Data Scientist Nanodegree. For this project, I was interested using the [Udemy Courses dataset](https://www.kaggle.com/datasets/hossaingh/udemy-courses?select=Course_info.csv) available in Kaggle to answer the following questions:
 
-
-
 ## File Descriptions <a name="files"></a>
 
 There are 4 Jupyter Notebooks in this repository that will answer each question, you can relate each question by the notebook's title. An extra Jupyter Notebook is provided to analyze the dataset. The original dataset is also provided for ease of use in companion with the notebooks.
 
-
-
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@mriosrivas/these-4-things-will-make-your-online-course-a-diamond-48915a5c6914).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
